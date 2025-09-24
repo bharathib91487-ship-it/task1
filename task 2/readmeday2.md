@@ -20,3 +20,4 @@ Perform EDA to understand patterns, trends, and feature relationships using **st
 2. Install dependencies:  
    ```bash
    pip install pandas matplotlib seaborn plotly numpy
+
